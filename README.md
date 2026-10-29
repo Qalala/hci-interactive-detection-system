@@ -3,6 +3,15 @@
 ## Brief description
 An interactive HCI system combining real-time object detection, gaze tracking, and face login with multi-touch table applications for classroom-style demos (TUIO / C# + Python helpers).
 
+## Tech stack
+- C# / .NET (WinForms)
+- TUIO / OSC
+- Python
+- YOLO (Ultralytics)
+- OpenCV
+- Gaze tracking (MediaPipe / custom helpers)
+- Face login pipeline
+
 ## Project purpose
 Show how computer vision (YOLO / OpenCV), gaze tracking, and tangible/multi-touch input (TUIO) can be combined into interactive educational interfaces with teacher/admin panels and face-based login.
 
